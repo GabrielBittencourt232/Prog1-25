@@ -1,0 +1,25 @@
+Aula 01:
+
+IDE = INTEGRATED DEVELOPMENT ENVIRONMENT
+ASP = ACTIVE SERVER PAGES
+-- RAZOR / BLAZOR 
+ORM = OBJECT RELATIONAL MAPPING 
+APLICAÇÃO WEB
+Opera em uma arquitetura Client / Server 
+
+DNS - DOMAIN NAME SYSTEM
+
+HTTP / HTTPS - HYPER TEXT TRANSFER PROTOCOL (SECURE)
+
+HTML -  HYPER TEXT MARKUP LANGUAGE
+
+
+
+------------------------------------------------------------------------
+
+Aula 02:
+
+git remote add (nome) (link) - adicionar repositório remoto
+
+git remote -v
+
