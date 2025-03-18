@@ -27,3 +27,9 @@ git remote -v
 Atividade:
 Com base no exemplo feito em laboratório, com os tipos inteiros nas variáveis totalCount e userCount que foram exibidos em tela no Home/Index, contidos na classe Variaveis faça:
 Na página 47 do livro é possível acesar os valores mínimos e máximos para os demais tipos númericos. Edite a classe Variaveis, crie novos atributos a ela e armazene os valores Min e Max de cada tipo númerico para em seguida exibir em tela no Home/Index.
+
+
+
+------------------------------------------------------------------------
+
+Aula 03:
