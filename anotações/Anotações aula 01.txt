@@ -56,6 +56,10 @@ UX - USER EXPERIENCE
 
 Bootstrap
 
-
-
-
+-------------------------------------------------------------------------
+Aula 06:
+JOGO DA VELHA
+1º padrão: Linhas iguais
+2º padrão: Colunas iguais
+3º padrão: i + j = 2
+4º padrão: j == i
