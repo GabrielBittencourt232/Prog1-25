@@ -101,3 +101,17 @@ Qualquer coisa importante do domínio da aplicação ou do mundo real que precis
 * Focada em objetos que interagem uns com os outros
 
 Programação Orientada a Objetos
+
+Requisito:
+Você recebeu uma solicitação por e-mail de uma amiga veterinária, informando que está com problemas para gerenciar os atendimentos dos pets. Na mensagem ela diz que gostaria de ter registros dos animais, que precisa também dos dados dos seus parceiros veterinários que atendem no centro clínico para poder saber quais médicos atenderam quais animais em um determinado período de tempo, ou até mesmo, registrar quais procedimentos que foram realizados com os animais nos últimos atendimentos.
+
+Primeiro passo: 
+Inicie com os nomes
+
+Segundo passo
+- Defina os membros apropriados
+- Quais são as Propriedades (dados) e os Métodos (operações) 
+
+-Definindo Membros Apropriados-
+
+-O Efeito TEMPO-
