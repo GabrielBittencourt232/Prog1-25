@@ -63,3 +63,41 @@ JOGO DA VELHA
 2º padrão: Colunas iguais
 3º padrão: i + j = 2
 4º padrão: j == i
+
+-------------------------------------------------------------------------
+Aula 07:
+OOP 
+POO - PROGRAMAÇÃO ORIENTADA A OBJETO
+
+OOP é a base:
+API - ACCES PROGRAM INTERFACE
+
+CLASSE x OBJETO
+- Classe: 
+Código, palavra-chave "class"
+Formada por propriedades e funções/métodos que compõem os membros da classe
+
+- Objeto:
+Uma instância de uma classe na memória do computador
+Variável que possibilita o acesso aos métodos e propriedades especificadas
+Ao encerrar o programa, o objeto é eliminado da memória, mas a classe permanece especificada no código fonte do programa.
+
+Objeto != Classe
+
+Os objetos possuem o formato especializado pela classe, porém, cada um deles podem armazenar valores diferentes em suas propriedades ocasionando comportamentos diferentes em seus métodos.
+
+- Business Objects são as classes projetadas para solucionar problemas de um determinado domínio de aplicação do software
+- Certamente teríamos uma definição de classe Consumidor em um sistema comercial, contendo nome e e-mail como propriedades, por exemplo.
+
+Entidade 
+- Entity
+Qualquer coisa importante do domínio da aplicação ou do mundo real que precise ser representado como uma classe.
+
+* Uma abordagem para projetar e construir aplicações que são:
+- Flexíveis;
+- Naturais;
+- Bem elaboradas;
+- Testáveis;
+* Focada em objetos que interagem uns com os outros
+
+Programação Orientada a Objetos
