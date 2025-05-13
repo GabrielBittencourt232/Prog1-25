@@ -115,3 +115,31 @@ Segundo passo
 -Definindo Membros Apropriados-
 
 -O Efeito TEMPO-
+
+-------------------------------------------------------------------------
+
+Aula 08:
+			* Classes Entidades *
+Organizando a Estrutura da Aplicação em CAMADAS
+- Camada de Interface do Usuário
+- Camada de Lógica de Negócios
+- Camada de Acesso a Dados
+- Camada de Código Comum
+
+Vantagens:
+- Dividir a aplicação em camados torna o trabalho simples e organizado.
+- Separar a camada de negócio da interface de usuário, permite-nos mais tarde adicionar com mais tranquilidade uma interface web a nossa aplicação, por exemplo.
+
+
+A Classe Customer
+- A classe Customer deve ser definida como public, para que toda a aplicação consiga enxergá-la;
+- Lembre-se que a classe deve ENCAPSULAR seus dados;
+- O C# possui o modificador de acesso internal, ele especifica que um atributo da classe, por exemplo, ficará acessível apenas às classes que pertençam ao mesmo projeto.
+
+Criando Objetos
+- Agora que definimos a primeira classe, podemos criar instânmcias de objetos deste tipo:
+
+- Customer: O tipo de variável é a especificação do tipo do objeto
+- customer: variável objeto criada na memória.
+
+Objetos são Tipos Referenciados
