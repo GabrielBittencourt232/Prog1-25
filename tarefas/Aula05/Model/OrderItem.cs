@@ -9,16 +9,16 @@
 
         public bool Validade()
         {
-            return true;
-        }
+            bool isValid = true;
 
-        public OrderItem Retrieve()
-        {
-            return new OrderItem();
-        }
+            double quantityItems = 10;
 
-        public void Save(OrderItem orderItem)
-        {
+            isValid = (Id > 0) &&
+                      (Quantity > 0) &&
+                      (PurchasePrice > 0) &&
+                      Product != null;
+
+            return isValid;
         }
     }
 }
