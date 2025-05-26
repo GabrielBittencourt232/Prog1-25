@@ -15,5 +15,14 @@
 
             return isValid;
         }
+         
+        public Product Retrieve()
+        {
+            return new Product();
+        }
+
+        public void Save(Product product)
+        {
+        }
     }
 }

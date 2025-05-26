@@ -24,6 +24,22 @@
         {
             this.ShippingAddress = address;
         }
+        public bool Validate()
+        {
+            bool isValid = true;
 
+            isValid = (this.Id > 0);
+
+            return isValid;
+        }
+
+        public Order Retrieve()
+        {
+            return new Order();
+        }
+
+        public void Save(Order order)
+        {
+        }
     }
 }

@@ -143,3 +143,21 @@ Criando Objetos
 - customer: variável objeto criada na memória.
 
 Objetos são Tipos Referenciados
+
+-------------------------------------------------------------------------
+
+Aula 09:
+Existem duas formas de organizar dados de maneira estruturada:
+
+A primeira delas se chama "Escolha Delimitada" - separado por ';' coluna por coluna - utilizado no excel por exemplo
+
+Segunda é chamada "Tamanho Fixo" - utilizada em códigos de barra
+
+Padrão CQRS
+- Commands and Queries
+
+HTML:
+DON
+Document
+Object
+Model

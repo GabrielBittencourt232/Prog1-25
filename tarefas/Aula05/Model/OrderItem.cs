@@ -19,6 +19,19 @@
                       Product != null;
 
             return isValid;
+
+
+        }
+        public class OrderItemRepository
+        {
+            public OrderItem Retrieve()
+            {
+                return new OrderItem();
+            }
+
+            public void Save(OrderItem orderItem)
+            {
+            }
         }
     }
 }
