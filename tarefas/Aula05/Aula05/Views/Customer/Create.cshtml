@@ -9,6 +9,8 @@
 
     <div class="container">
 
+        <form id="formCustomer" method="post" asp-action="Create" asp-controller="Customer">
+
         <div class="row">
             <div class="form-group">
                 <label asp-for="@Model.Name">Nome:</label>
@@ -16,10 +18,12 @@
             </div>
         </div>
 
-        <button type="submit" class="btn btn-primary"
+        <button id="btnCustomer" type="submit" class="btn btn-primary"
         value="Cadastrar">
         Cadastrar
-    </button>
+     </button>
+
+        </form>
 
     </div>
 </div>
