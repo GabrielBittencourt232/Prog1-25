@@ -1,4 +1,4 @@
-namespace Aula04_Recursividade.Models
+namespace Aula06.Models
 {
     public class ErrorViewModel
     {
